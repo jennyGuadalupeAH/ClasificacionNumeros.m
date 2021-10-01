@@ -1,0 +1,2 @@
+# ClasificacionNumeros.m
+Los números se clasifican en cinco tipos principales: números naturales N, números enteros Z, números racionales Q, números reales R (incluyen a los irracionales) y números complejos C. Por lo cual demostrara con el codigo diversas operaciones que e lanzan al ejecutarlo tomando como pequeños subtemas, demostrar a que se refiere cada uno al momento de estar realizando este algoritmo
